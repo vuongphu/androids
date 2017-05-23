@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "244427858483",
+    "firebase_url": "https://data-bca36.firebaseio.com",
+    "project_id": "data-bca36",
+    "storage_bucket": "data-bca36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244427858483:android:1f6d700414dc121d",
+        "android_client_info": {
+          "package_name": "androlite.baitaplon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244427858483-oupbrc4t65ume2jiji21316cvihbk47h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "androlite.baitaplon",
+            "certificate_hash": "9323001d0a07bf1fbaea961b894cc76156444d98"
+          }
+        },
+        {
+          "client_id": "244427858483-l3usi4augjs0q8anu6mauc44ebh4537f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3-O8vx_VXXz-UFRvmTUi8RAggMZlUEu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244427858483-l3usi4augjs0q8anu6mauc44ebh4537f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tu Dien</string>
+    <string name="app_name2">Viet Anh</string>
+    <string name="label_anh_viet">Anh Viet</string>
+    <string name="label_viet_anh">Viet Anh</string>
+    <string name="label_fav_av">Bookmark Anh Viet</string>
+    <string name="label_fav_va">Bookmark Viet Anh</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_fragment_tab1">FragmentTab1</string>
+    <string name="bookmark_on">Bookmark_on</string>
+    <string name="bookmark_off">Bookmark_off</string>
+</resources>

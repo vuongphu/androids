@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Từ Điển">
+            <menu>
+            <item
+                android:id="@+id/nav_anhviet"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="Anh Viet" />
+            <item
+                android:id="@+id/nav_vietanh"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Viet Anh" />
+            <!--<item-->
+                <!--android:id="@+id/nav_slideshow"-->
+                <!--android:icon="@drawable/ic_menu_slideshow"-->
+                <!--android:title="Slideshow" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_manage"-->
+                <!--android:icon="@drawable/ic_menu_manage"-->
+                <!--android:title="Tools" />-->
+            </menu>
+        </item>
+    </group>
+
+    <item android:title="Từ Yêu Thích">
+        <menu>
+            <item
+                android:id="@+id/nav_fav_av"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Anh Viet" />
+            <item
+                android:id="@+id/nav_fav_va"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Viet Anh" />
+        </menu>
+    </item>
+
+</menu>
